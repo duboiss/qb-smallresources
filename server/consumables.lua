@@ -7,6 +7,8 @@ for k,_ in pairs(Config.ConsumablesAlcohol) do
     end)
 end
 
+-- feat 1
+
 ----------- / Eat
 
 for k,_ in pairs(Config.ConsumablesEat) do
