@@ -19,6 +19,8 @@ for k,_ in pairs(Config.ConsumablesEat) do
     end)
 end
 
+-- feat2
+
 ----------- / Drink
 for k,_ in pairs(Config.ConsumablesDrink) do
     QBCore.Functions.CreateUseableItem(k, function(source, item)
